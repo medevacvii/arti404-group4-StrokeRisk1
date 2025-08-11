@@ -6,3 +6,7 @@ matplotlib
 seaborn
 scikit-learn
 xgboost
+flask
+pycaret
+pathlib
+sklearn
